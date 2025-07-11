@@ -1,0 +1,12 @@
+---
+layout:   post
+title:    暑假集训
+author:   watson
+header-style: text
+catalog:  ture
+tags:
+      -web
+      -JavaScript
+---
+
+>这是文章内容
